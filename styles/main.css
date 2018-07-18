@@ -82,3 +82,6 @@ button:active {
 .seemore {
     text-decoration: underline;
 }
+p {
+    width: 100%;
+}
