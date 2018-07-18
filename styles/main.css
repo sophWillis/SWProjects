@@ -79,6 +79,10 @@ button:active {
     outline: none;
 }
 
+button:hover {
+    cursor:pointer;
+}
+
 .seemore {
     text-decoration: underline;
 }
